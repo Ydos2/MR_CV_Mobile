@@ -4,5 +4,5 @@
 Here is my mobile application which is intended to be my resume, the application was created with flutter.
 
 ## General informations
-Name : my_hunter<br />
+Name : MR_CV<br />
 Author : Mathias Ressort
